@@ -30,4 +30,5 @@ Mostra um sistema prático e dinâmico que trabalha um CRUD em PHP com PDO no Ba
 :heavy_check_mark: - PDO.
 :heavy_check_mark: - JavaScript  Básico.
 :heavy_check_mark: - MySQL
+:heavy_check_mark: - Bootstrap Básico.
 
